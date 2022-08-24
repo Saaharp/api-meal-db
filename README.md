@@ -15,8 +15,8 @@ My goal in developing this app was to gain a better understanding of Node.js and
 ## Examples:
 Take a look at a couple of these examples that I have in my own portfolio:
 
-**Federation Field Guide:** https://aliensfieldguide.netlify.app/
+**Federation Field Guide:** https://github.com/Saaharp/star-trek-api
 
-**NFL Team Info API:** https://football-app-api.herokuapp.com/
+**NFL Team Info API:** https://github.com/Saaharp/nfl-app
 
-**Musician Biogaphy:** https://musicianbio.netlify.app/
+**Musician Biogaphy:** •	https://github.com/Saaharp/api-musician
