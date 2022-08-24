@@ -19,4 +19,4 @@ Take a look at a couple of these examples that I have in my own portfolio:
 
 **NFL Team Info API:** https://github.com/Saaharp/nfl-app
 
-**Musician Biogaphy:** •	https://github.com/Saaharp/api-musician
+**Musician Biogaphy:** https://github.com/Saaharp/api-musician
