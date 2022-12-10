@@ -7,9 +7,9 @@ This application recommends a random food or drink recipe to try.
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, Node.js
+**Tech used:** HTML, CSS, JavaScript, Node.js, TheMealDB Api
 
-My goal in developing this app was to gain a better understanding of Node.js and to learn how to create and access my own APIs built into the server.
+
  
 
 ## Examples:
