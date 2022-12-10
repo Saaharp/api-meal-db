@@ -17,6 +17,6 @@ Take a look at a couple of these examples that I have in my own portfolio:
 
 **Federation Field Guide:** https://github.com/Saaharp/star-trek-api
 
-**NFL Team Info API:** https://github.com/Saaharp/nfl-app
+**Houston Astronomy Club API: https://github.com/Saaharp/apod
 
-**Musician Biogaphy:** https://github.com/Saaharp/api-musician
+**Java Xpress App: https://github.com/Saaharp/Java-Xpress
