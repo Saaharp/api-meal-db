@@ -3,7 +3,7 @@ This application recommends a random food or drink recipe to try.
 
 **Link to project:** https://whatareyoueating.netlify.app/
 
-![alt tag](https://user-images.githubusercontent.com/102547132/178332768-20ebdcc8-c1d4-445f-9051-efb0cd966748.gif)
+![recipes](https://user-images.githubusercontent.com/102547132/206805930-3464bfac-10e6-4156-ba87-681798c51400.gif)
 
 ## How It's Made:
 
