@@ -7,7 +7,7 @@ This application recommends a random food or drink recipe to try.
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, Node.js, TheMealDB Api
+**Tech used:** HTML, CSS, JavaScript, TheMealDB Api
 
 
  
