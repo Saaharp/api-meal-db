@@ -20,6 +20,6 @@ Take a look at a couple of these examples that I have in my own portfolio:
 
 **Federation Field Guide:** https://github.com/Saaharp/star-trek-api
 
-**Houston Astronomy Club API: https://github.com/Saaharp/apod
+**Houston Astronomy Club API:** https://github.com/Saaharp/apod
 
-**Java Xpress App: https://github.com/Saaharp/Java-Xpress
+**Java Xpress App:** https://github.com/Saaharp/Java-Xpress
